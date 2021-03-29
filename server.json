@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "gegqg",
+      "name": "gegeg",
+      "price": "25.00",
+      "description": "gegeg",
+      "available": true,
+      "id": 4
     }
   ]
 }
